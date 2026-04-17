@@ -5,7 +5,7 @@ A full-stack support ticket system built with **FastAPI** (backend) and **React*
 ---
 ## Demo videos
 
-frontend video : https://drive.google.com/file/d/1FDrYzF8n1nO6nJEPOyN6UWgExv_KdYX_/view?usp=sharing
+frontend video : https://drive.google.com/file/d/1v5ylWt92ikupsTR66Mz_rINhnWxWku3I/view?usp=sharing
 
 backend video : https://drive.google.com/file/d/1FDrYzF8n1nO6nJEPOyN6UWgExv_KdYX_/view?usp=sharing
 
