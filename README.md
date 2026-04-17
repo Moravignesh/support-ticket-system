@@ -3,6 +3,11 @@
 A full-stack support ticket system built with **FastAPI** (backend) and **React** (frontend), featuring role-based access control, ticket lifecycle management, SLA tracking, real-time notifications, and an admin analytics dashboard.
 
 ---
+## Demo videos
+
+frontend video : https://drive.google.com/file/d/1v5ylWt92ikupsTR66Mz_rINhnWxWku3I/view?usp=drive_link
+
+backend video : https://drive.google.com/file/d/1FDrYzF8n1nO6nJEPOyN6UWgExv_KdYX_/view?usp=sharing
 
 ## 📁 Project Structure
 
